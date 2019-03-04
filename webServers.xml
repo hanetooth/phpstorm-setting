@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c0c015c6-3dc0-461e-86ef-9deb7a749e68" name="laradock" url="http://localhost">
-        <fileTransfer host="laradock" port="80" privateKey="$USER_HOME$/code/mingalar/laradock/workspace/insecure_id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="c0c015c6-3dc0-461e-86ef-9deb7a749e68" name="laradock" url="http://mingalarcinema.test">
+        <fileTransfer host="mingalarcinema.test" port="80" privateKey="$USER_HOME$/code/mingalar_web/laradock/workspace/insecure_id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
