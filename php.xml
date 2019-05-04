@@ -1,0 +1,16 @@
+<application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="52df3c6b-cb05-449f-8da1-dfaf537d2f3b" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="smartFunctionParametersCompletion" value="true" />
+  </component>
+</application>
