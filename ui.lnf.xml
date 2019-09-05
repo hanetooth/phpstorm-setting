@@ -1,7 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="true" />
-    <option name="MAX_LOOKUP_WIDTH2" value="649" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="31" />
+    <option name="MAX_LOOKUP_WIDTH2" value="832" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="smoothScrolling" value="true" />
   </component>
