@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c0c015c6-3dc0-461e-86ef-9deb7a749e68" name="laradock" url="http://172.19.0.5">
+        <fileTransfer host="172.19.0.5" port="22" privateKey="$USER_HOME$/code/mingalar_web/laradock/workspace/insecure_id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="400743d7-643d-4b87-a912-e4a170e946c2" name="laravel" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/code/mingalar" accessType="MOUNT" />
+      </webServer>
+      <webServer id="fd27a1cb-5ac8-4edb-8f8a-088728b210de" name="HIPEN" url="http://hipen">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
