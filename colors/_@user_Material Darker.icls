@@ -4,19 +4,20 @@
     <property name="created">2018-11-27T11:16:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-09-12T11:34:21</property>
+    <property name="modified">2019-09-23T13:39:05</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Operator Mono Medium" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -141,11 +142,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
@@ -1110,13 +1108,13 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="TEXT" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
