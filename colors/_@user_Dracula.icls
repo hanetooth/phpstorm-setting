@@ -3,7 +3,7 @@
     <property name="created">2018-12-12T11:06:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2018-12-14T16:18:23</property>
+    <property name="modified">2019-12-08T01:03:16</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <colors>
@@ -21,6 +21,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff79c6" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff79c6" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff79c6" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ffb86c" />
     <option name="FILESTATUS_MERGED" value="bd93f9" />
     <option name="FILESTATUS_MODIFIED" value="8be9fd" />
