@@ -1,0 +1,8 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
+  <action id="ServiceView.GroupByContributor" />
+  <action id="SurroundWith" />
+</keymap>
